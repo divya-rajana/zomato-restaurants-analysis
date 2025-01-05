@@ -14,7 +14,4 @@ The dashboard was created following a YouTube tutorial to enhance Power BI visua
 - Download the `.pbix` file.
 - Open it with Power BI Desktop to explore the interactive visuals.
 
-## Preview:
-![Dashboard Preview](./dashboard-preview.png)
-
 Feel free to fork, contribute, or provide feedback!
